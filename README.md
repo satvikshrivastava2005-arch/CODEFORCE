@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 38 | 11 |
+| 39 | 11 |
 
 ---
 
@@ -16,10 +16,10 @@
 - [brute force](#brute-force) (5)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
-- [greedy](#greedy) (6)
+- [greedy](#greedy) (7)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (23)
-- [math](#math) (12)
+- [math](#math) (13)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (7)
@@ -63,6 +63,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 
 ### hashing
@@ -109,6 +110,7 @@
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 965A | [Paper Airplanes](https://codeforces.com/contest/965/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/965/A%20-%20Paper%20Airplanes/solution.cpp) |
+| 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
 | 1977A | [Little Nikita](https://codeforces.com/contest/1977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1977/A%20-%20Little%20Nikita/solution.cpp) |
 | 2014B | [Robin Hood and the Major Oak](https://codeforces.com/contest/2014/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2014/B%20-%20Robin%20Hood%20and%20the%20Major%20Oak/solution.cpp) |
 | 2093A | [Ideal Generator](https://codeforces.com/contest/2093/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2093/A%20-%20Ideal%20Generator/solution.cpp) |
