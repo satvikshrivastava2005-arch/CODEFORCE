@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 40 | 11 |
+| 41 | 11 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [greedy](#greedy) (7)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (24)
-- [math](#math) (13)
+- [math](#math) (14)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (7)
@@ -112,6 +112,7 @@
 | 617A | [Elephant](https://codeforces.com/contest/617/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/617/A%20-%20Elephant/solution.cpp) |
 | 965A | [Paper Airplanes](https://codeforces.com/contest/965/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/965/A%20-%20Paper%20Airplanes/solution.cpp) |
 | 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
+| 1955A | [Yogurt Sale](https://codeforces.com/contest/1955/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1955/A%20-%20Yogurt%20Sale/solution.cpp) |
 | 1977A | [Little Nikita](https://codeforces.com/contest/1977/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1977/A%20-%20Little%20Nikita/solution.cpp) |
 | 2014B | [Robin Hood and the Major Oak](https://codeforces.com/contest/2014/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2014/B%20-%20Robin%20Hood%20and%20the%20Major%20Oak/solution.cpp) |
 | 2093A | [Ideal Generator](https://codeforces.com/contest/2093/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2093/A%20-%20Ideal%20Generator/solution.cpp) |
