@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 41 | 11 |
+| 42 | 11 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [greedy](#greedy) (7)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (24)
-- [math](#math) (14)
+- [math](#math) (15)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (3)
 - [strings](#strings) (7)
@@ -118,6 +118,7 @@
 | 2093A | [Ideal Generator](https://codeforces.com/contest/2093/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2093/A%20-%20Ideal%20Generator/solution.cpp) |
 | 2104A | [Three Decks](https://codeforces.com/contest/2104/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2104/A%20-%20Three%20Decks/solution.cpp) |
 | 2145A | [Candies for Nephews](https://codeforces.com/contest/2145/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2145/A%20-%20Candies%20for%20Nephews/solution.cpp) |
+| 2166B | [Tab Closing](https://codeforces.com/contest/2166/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2166/B%20-%20Tab%20Closing/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 
 ### number theory
