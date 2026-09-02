@@ -1,17 +1,18 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
-int main() {
-    int n;
-    cin >> n;
-    double sum = 0;
-    for (int i = 0; i < n; i++) {
-        double p;
-        cin >> p;
-        sum += p;
+int main(){
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    long long n , x;
+    cin>>n;
+    double ans=0 ;
+    int count=n;
+    
+    while(count--){
+        cin>>x;
+        ans+=x;
     }
- 
-    cout << fixed << setprecision(6) << sum / n << '
-';
- 
-    return 0;
+    cout<<ans/n<<"
+";
+    return 0; 
 }
