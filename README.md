@@ -6,21 +6,21 @@
 
 | Total Problems | Topics |
 |---|---|
-| 70 | 12 |
+| 71 | 12 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [*special](#special) (1)
-- [brute force](#brute-force) (6)
+- [brute force](#brute-force) (7)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
 - [dp](#dp) (1)
-- [greedy](#greedy) (7)
+- [greedy](#greedy) (8)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (38)
-- [math](#math) (30)
+- [math](#math) (31)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (11)
@@ -42,6 +42,7 @@
 | 236A | [Boy or Girl](https://codeforces.com/contest/236/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/236/A%20-%20Boy%20or%20Girl/solution.cpp) |
 | 271A | [Beautiful Year](https://codeforces.com/contest/271/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/271/A%20-%20Beautiful%20Year/solution.cpp) |
 | 546A | [Soldier and Bananas](https://codeforces.com/contest/546/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/546/A%20-%20Soldier%20and%20Bananas/solution.cpp) |
+| 1462C | [Unique Number](https://codeforces.com/contest/1462/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1462/C%20-%20Unique%20Number/solution.cpp) |
 | 2171A | [Shizuku Hoshikawa and Farm Legs](https://codeforces.com/contest/2171/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2171/A%20-%20Shizuku%20Hoshikawa%20and%20Farm%20Legs/solution.cpp) |
 
 ### constructive algorithms
@@ -71,6 +72,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/231/A%20-%20Team/solution.cpp) |
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.cpp) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 1462C | [Unique Number](https://codeforces.com/contest/1462/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1462/C%20-%20Unique%20Number/solution.cpp) |
 | 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 
@@ -141,6 +143,7 @@
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
 | 1374B | [Multiply by 2, divide by 6](https://codeforces.com/contest/1374/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1374/B%20-%20Multiply%20by%202%2C%20divide%20by%206/solution.cpp) |
+| 1462C | [Unique Number](https://codeforces.com/contest/1462/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1462/C%20-%20Unique%20Number/solution.cpp) |
 | 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
 | 1748A | [The Ultimate Square](https://codeforces.com/contest/1748/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1748/A%20-%20The%20Ultimate%20Square/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
