@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 79 | 12 |
+| 80 | 12 |
 
 ---
 
@@ -20,7 +20,7 @@
 - [greedy](#greedy) (8)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (42)
-- [math](#math) (37)
+- [math](#math) (38)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (12)
@@ -151,6 +151,7 @@
 | 758A | [Holiday Of Equality](https://codeforces.com/contest/758/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/758/A%20-%20Holiday%20Of%20Equality/solution.cpp) |
 | 876A | [Trip For Meal](https://codeforces.com/contest/876/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/876/A%20-%20Trip%20For%20Meal/solution.cpp) |
 | 965A | [Paper Airplanes](https://codeforces.com/contest/965/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/965/A%20-%20Paper%20Airplanes/solution.cpp) |
+| 1296B | [Food Buying](https://codeforces.com/contest/1296/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1296/B%20-%20Food%20Buying/solution.cpp) |
 | 1328A | [Divisibility Problem](https://codeforces.com/contest/1328/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1328/A%20-%20Divisibility%20Problem/solution.cpp) |
 | 1334A | [Level Statistics](https://codeforces.com/contest/1334/problem/A) | 1200 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1334/A%20-%20Level%20Statistics/solution.cpp) |
 | 1335A | [Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1335/A%20-%20Candies%20and%20Two%20Sisters/solution.cpp) |
