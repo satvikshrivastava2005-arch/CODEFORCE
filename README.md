@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 85 | 13 |
+| 86 | 13 |
 
 ---
 
@@ -18,10 +18,10 @@
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (3)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [hashing](#hashing) (2)
 - [implementation](#implementation) (43)
-- [math](#math) (41)
+- [math](#math) (42)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (4)
 - [strings](#strings) (12)
@@ -87,6 +87,7 @@
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 1462C | [Unique Number](https://codeforces.com/contest/1462/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1462/C%20-%20Unique%20Number/solution.cpp) |
 | 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
+| 1768B | [Quick Sort](https://codeforces.com/contest/1768/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1768/B%20-%20Quick%20Sort/solution.cpp) |
 | 2225A | [A Number Between Two Others](https://codeforces.com/contest/2225/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2225/A%20-%20A%20Number%20Between%20Two%20Others/solution.cpp) |
 | 2276A | [Perfect Sandwiches](https://codeforces.com/contest/2276/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/2276/A%20-%20Perfect%20Sandwiches/solution.cpp) |
 
@@ -172,6 +173,7 @@
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 1551A | [Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1551/A%20-%20Polycarp%20and%20Coins/solution.cpp) |
 | 1748A | [The Ultimate Square](https://codeforces.com/contest/1748/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1748/A%20-%20The%20Ultimate%20Square/solution.cpp) |
+| 1768B | [Quick Sort](https://codeforces.com/contest/1768/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1768/B%20-%20Quick%20Sort/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
 | 1881B | [Three Threadlets](https://codeforces.com/contest/1881/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/satvikshrivastava2005-arch/CODEFORCE/blob/HEAD/1881/B%20-%20Three%20Threadlets/solution.cpp) |
